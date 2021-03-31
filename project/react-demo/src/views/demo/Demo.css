@@ -1,0 +1,21 @@
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.title {
+
+}
+.btn-list {
+    overflow: hidden;
+}
+.btn-list span {
+    float: left;
+    padding: 10px 20px;
+    background-color: #399d9d;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
